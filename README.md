@@ -1,4 +1,6 @@
 # convert_pose2tf
+tfに流れる3次元の自己位置を2次元に変換するパッケージ
+
 # ライセンス
 (C) 2025 Keitaro Nakamura
 
